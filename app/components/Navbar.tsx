@@ -5,7 +5,7 @@ import Menu from "../../public/assets/Menu.svg";
 
 const navLinks = [
     {name:'Features'},
-    {name:'Pricig'},
+    {name:'Pricing'},
     {name:'Enterprise'},
     {name:'Careers'},
 ];
