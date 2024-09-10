@@ -3,12 +3,12 @@ This is a modern website for UI &amp; UX that designed using Tailwind And NextJS
 
 📫 https://uiux-website-six.vercel.app/
 
-<div align="center">
+<div align="center" display="flex" flex-direction="column" justify-content="center" align-items="center">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" v-align="center"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="80" alt="tailwindcss logo"  />
 </div>
 
